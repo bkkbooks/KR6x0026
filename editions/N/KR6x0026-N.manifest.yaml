@@ -1,0 +1,368 @@
+canonical_identifier: bkk:krp/KR6x0026/N/v1
+canonical_location: https://kanripo.org/bkk/KR6x0026/N/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 界論
+  identifiers:
+    krp: KR6x0026
+    cbeta: N50n0026
+    cbeta_old_id: N50n0026
+    authorityid: CA0008290
+    json_key: N0026
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/N/N50/N50n0026.xml
+    old_id: N50n0026
+  edition:
+    short: 'N'
+assets:
+  parts:
+  - {seq: 1, filename: KR6x0026_001-N.yaml, hash: 'sha256:284aad5fbf01a64f52f0c5315f603e0d5c00be264de56a516a8def0c98d314e9'}
+  - {seq: 2, filename: KR6x0026_002-N.yaml, hash: 'sha256:cf703a3ab51b6511d169ebcfe76a4d17bcf4785fab9699b061440babf68197e8'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6x0026_001-N.markers.yaml, hash: 'sha256:5c6886fb4834cca4c195c9d086a0df7bfe0f3e42af62995e7c15caa5a44be398'}
+  - {seq: 2, role: markers, filename: assets/KR6x0026_002-N.markers.yaml, hash: 'sha256:c7c4594202139202544e260b47eacbfb7b21de826b29c52b688ddace1571bef4'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6x0026_N_001-juan-start
+    span:
+    - body
+    - 0
+    - 27394
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0026_N_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 界論
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0026_N_001-mulu-2
+    span:
+    - body
+    - 12
+    - 12
+  label: 論母設置分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0026_N_001-mulu-3
+    span:
+    - body
+    - 203
+    - 203
+  label: 第一　所攝與非攝
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0026_N_001-mulu-4
+    span:
+    - body
+    - 7179
+    - 7179
+  label: 第二　所攝〔者之〕非攝
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0026_N_001-mulu-5
+    span:
+    - body
+    - 7608
+    - 7608
+  label: 第三　非攝〔者之〕所攝
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0026_N_001-mulu-6
+    span:
+    - body
+    - 8313
+    - 8313
+  label: 第四　所攝〔者之〕所攝
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0026_N_001-mulu-7
+    span:
+    - body
+    - 8583
+    - 8583
+  label: 第五　非攝〔者之〕非攝
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0026_N_001-mulu-8
+    span:
+    - body
+    - 10687
+    - 10687
+  label: 第六　相應與不相應
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0026_N_001-mulu-9
+    span:
+    - body
+    - 14833
+    - 14833
+  label: 第七　相應〔者之〕不相應
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0026_N_001-mulu-10
+    span:
+    - body
+    - 15438
+    - 15438
+  label: 第八　不相應〔者之〕相應
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0026_N_001-mulu-11
+    span:
+    - body
+    - 15522
+    - 15522
+  label: 第九　相應〔者之〕相應
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0026_N_001-mulu-12
+    span:
+    - body
+    - 17150
+    - 17150
+  label: 第十　不相應〔者之〕不相應
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0026_N_001-mulu-13
+    span:
+    - body
+    - 20230
+    - 20230
+  label: 第十一　所攝〔者之〕相應與不相應
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0026_N_001-mulu-14
+    span:
+    - body
+    - 20996
+    - 20996
+  label: 第十二　相應〔者之〕所攝與非攝
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0026_N_001-mulu-15
+    span:
+    - body
+    - 22482
+    - 22482
+  label: 第十三　非攝〔者之〕相應與不相應
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0026_N_001-mulu-16
+    span:
+    - body
+    - 23547
+    - 23547
+  label: 第十四　不相應〔者之〕所攝與非攝
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6x0026_N_002-juan-start
+    span:
+    - body
+    - 0
+    - 8630
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6x0026_N_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 界論註
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6x0026_N_002-mulu-2
+    span:
+    - body
+    - 56
+    - 56
+  label: 論母之說明
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6x0026_N_002-mulu-3
+    span:
+    - body
+    - 986
+    - 986
+  label: 一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6x0026_N_002-mulu-4
+    span:
+    - body
+    - 2458
+    - 2458
+  label: 二
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6x0026_N_002-mulu-5
+    span:
+    - body
+    - 3530
+    - 3530
+  label: 三
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6x0026_N_002-mulu-6
+    span:
+    - body
+    - 4306
+    - 4306
+  label: 四
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6x0026_N_002-mulu-7
+    span:
+    - body
+    - 4664
+    - 4664
+  label: 五
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6x0026_N_002-mulu-8
+    span:
+    - body
+    - 5262
+    - 5262
+  label: 六
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6x0026_N_002-mulu-9
+    span:
+    - body
+    - 6653
+    - 6653
+  label: 七
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6x0026_N_002-mulu-10
+    span:
+    - body
+    - 7027
+    - 7027
+  label: 八
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6x0026_N_002-mulu-11
+    span:
+    - body
+    - 7149
+    - 7149
+  label: 九
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6x0026_N_002-mulu-12
+    span:
+    - body
+    - 7434
+    - 7434
+  label: 十
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6x0026_N_002-mulu-13
+    span:
+    - body
+    - 7602
+    - 7602
+  label: 十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6x0026_N_002-mulu-14
+    span:
+    - body
+    - 7860
+    - 7860
+  label: 十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6x0026_N_002-mulu-15
+    span:
+    - body
+    - 8019
+    - 8019
+  label: 十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6x0026_N_002-mulu-16
+    span:
+    - body
+    - 8287
+    - 8287
+  label: 十四
+  type: mulu
+  level: 1
+hash: sha256:685e34239f7f8e81deecddffed0bd29a715f4c6b4f3c2f20ff31f3cc29683f35

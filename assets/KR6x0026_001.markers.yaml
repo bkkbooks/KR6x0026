@@ -11960,7 +11960,6 @@ markers:
   - {type: xml-element, offset: 24752, content: '', id: pN50p0281a0601, name: p, role: open, attrs: {'xml:id': pN50p0281a0601}}
   - {type: xml-element, offset: 24754, content: '', id: pN50p0281a0601_end, name: p, role: close, attrs: {'xml:id': pN50p0281a0601}}
   - {type: xml-element, offset: 24754, content: '', id: pN50p0281a0603, name: p, role: open, attrs: {'xml:id': pN50p0281a0603, style: 'margin-left:2em;text-indent:2em', 'cb:place': inline}}
-  - {type: substitution, offset: 24763, original: 塾, replacement: 孰, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3905}}
   - {type: punctuation, offset: 24766, content: —, id: KR6x0026_N_001-bkkpn8018}
   - {type: punctuation, offset: 24766, content: —, id: KR6x0026_N_001-bkkpn8019}
   - {type: punctuation, offset: 24772, content: —, id: KR6x0026_N_001-bkkpn8020}
@@ -13033,4 +13032,4 @@ markers:
   - {type: xml-element, offset: 27394, content: '', id: lgN50p0289a1101_end, name: lg, role: close, attrs: {'xml:id': lgN50p0289a1101, style: 'margin-left:0em;text-indent:0em;'}}
   - {type: line-break, offset: 27394, content: '', id: KR6x0026_N_001-0290a09, ed: 'N', 'n': 0290a09}
   back: []
-hash: sha256:b468bfcfc00804f4870aad50b9f4d47a55c026fa901cb9e641554a2eb65a094a
+hash: sha256:44b489c276e8f4455dfd33f94a1c4a4edb27cbae196816113ddac615a6af0611
